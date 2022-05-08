@@ -28,15 +28,15 @@ erence to the Post Correspondence Problem
 
 ### Static Form
 
-1. Scikit-Learn Jupyter Notebook [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/layaniw/hands-on-jupyter/blob/main/scikit-learn.ipynb)
+1. Post Correspondence Problem Notebook [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/layaniw/jupyter_notebooks/blob/50d4ea18450ffd05af1dea84e3553815249f8f3c/post-correspondence.ipynb)
 
-2. Quantum Computing Jupyter Notebook [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/layaniw/hands-on-jupyter/blob/main/quantum-deutsch.ipynb)
+2. Countdown Numbers Game Notebook [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/layaniw/jupyter_notebooks/blob/50d4ea18450ffd05af1dea84e3553815249f8f3c/countdown.ipynb)
 
 ### Dynamic Form
 
-1. Scikit-Learn Jupyter Notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/layaniw/hands-on-jupyter/HEAD?labpath=scikit-learn.ipynb)
+1. Post Correspondence Problem Notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/layaniw/jupyter_notebooks/50d4ea18450ffd05af1dea84e3553815249f8f3c?filepath=post-correspondence.ipynb)
 
-2. Quantum Computing Jupyter Notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/layaniw/hands-on-jupyter/HEAD?labpath=quantum-deutsch.ipynb)
+2. Countdown Numbers Game Notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/layaniw-jupyter_notebooks-6q16hhms/notebooks/countdown.ipynb)
 
 ## Technologies
 
@@ -45,7 +45,7 @@ The technologies and libraries used are
 - Jupyter
 - Anaconda
 - Docker
-- numpy Python library
+- numpy 
 - python itertools 
 - nbviewer
 - Binder
@@ -63,7 +63,7 @@ https://docs.docker.com/engine/install/
 Step 2. Clone the Git Repository to your local machine
 
 ```sh
-https://github.com/layaniw/hands-on-jupyter.git
+git clone https://github.com/layaniw/jupyter_notebooks.git
 ```
 
 Step 3. Run the notebooks
@@ -87,7 +87,7 @@ https://docs.anaconda.com/anaconda/install/index.html
 Step 2. Clone the Git Repository to your local machine
 
 ```sh
-https://github.com/layaniw/hands-on-jupyter.git
+git clone https://github.com/layaniw/jupyter_notebooks.git
 ```
 
 Step 3. Go to the Windows start menu and select Anaconda Prompt
@@ -115,7 +115,7 @@ Credit should go to Dr Ian McLoughlin (ian.mcloughlin@gmit.ie), whose instructio
 
 ## License
 
-https://github.com/layaniw/hands-on-jupyter/blob/4226fac1f8f8e0a6dd44e8a2ccfd4c44e6c07c3f/LICENSE
+https://github.com/layaniw/jupyter_notebooks/blob/main/LICENSE
 
 ## Contributing to the Project
 
