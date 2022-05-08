@@ -28,9 +28,9 @@ erence to the Post Correspondence Problem
 
 ### Static Form
 
-1. Post Correspondence Problem Notebook [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/layaniw/jupyter_notebooks/blob/50d4ea18450ffd05af1dea84e3553815249f8f3c/post-correspondence.ipynb)
+1. Post Correspondence Problem Notebook [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/layaniw/jupyter_notebooks/blob/cb537be048068e4402d00cf051d9e394c605489a/countdown.ipynb)
 
-2. Countdown Numbers Game Notebook [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/layaniw/jupyter_notebooks/blob/50d4ea18450ffd05af1dea84e3553815249f8f3c/countdown.ipynb)
+2. Countdown Numbers Game Notebook [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/layaniw/jupyter_notebooks/blob/cb537be048068e4402d00cf051d9e394c605489a/post-correspondence.ipynb)
 
 ### Dynamic Form
 
